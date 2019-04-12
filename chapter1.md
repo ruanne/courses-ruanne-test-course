@@ -40,3 +40,41 @@ pd.DataFrame([1, 2, 3])
 Ex().check_function('pandas.DataFrame').check_args('data').has_equal_value()
 success_msg("Well done!")
 ```
+
+---
+
+## Insert exercise title here
+
+```yaml
+type: NormalExercise
+key: f868f5d4e6
+xp: 100
+```
+
+
+
+`@instructions`
+
+
+`@hint`
+
+
+`@pre_exercise_code`
+```{python}
+
+```
+
+`@sample_code`
+```{python}
+
+```
+
+`@solution`
+```{python}
+
+```
+
+`@sct`
+```{python}
+
+```
