@@ -3,17 +3,15 @@ title: 'Chapter Title Here'
 description: 'Chapter description goes here.'
 ---
 
-## Example coding exercise
+## Insert exercise title here
 
 ```yaml
 type: NormalExercise
-key: e8c1edbe67
-lang: python
+key: fec7f8f3e6
 xp: 100
-skills: 2
 ```
 
-This is an example exercise.
+
 
 `@instructions`
 
@@ -33,10 +31,12 @@ This is an example exercise.
 
 `@solution`
 ```{python}
-
+import pandas as pd
+pd.DataFrame([1, 2, 3])
 ```
 
 `@sct`
 ```{python}
-
+Ex().check_function('pandas.DataFrame').check_args('data').has_equal_value()
+success_msg("Well done!")
 ```
