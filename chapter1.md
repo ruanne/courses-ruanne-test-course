@@ -43,7 +43,7 @@ success_msg("Well done!")
 
 ---
 
-## Insert exercise title here
+## Exercise 1.2
 
 ```yaml
 type: NormalExercise
