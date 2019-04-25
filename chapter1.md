@@ -114,5 +114,6 @@ stock_returns.tail()
 
 `@sct`
 ```{python}
-
+Ex().check_function('stock_returns.head')
+Ex().check_function('stock_returns.tail')
 ```
