@@ -44,7 +44,7 @@ success_msg("Well done!")
 
 ---
 
-## Insert exercise title here
+## The effect of diversification
 
 ```yaml
 type: TabExercise
@@ -117,3 +117,54 @@ stock_returns.tail()
 Ex().check_function('stock_returns.head')
 Ex().check_function('stock_returns.tail')
 ```
+
+***
+
+```yaml
+type: NormalExercise
+key: 75205fc8f3
+```
+
+`@instructions`
+
+
+`@hint`
+
+
+`@sample_code`
+```{python}
+# Check beginning and end of dataset
+stock_returns.head()
+stock_returns.tail()
+
+# Plot percentage returns
+plot_pct_returns(____)
+```
+
+`@solution`
+```{python}
+# Check beginning and end of dataset
+stock_returns.head()
+stock_returns.tail()
+
+# Plot percentage returns
+plot_pct_returns(stock_returns)
+```
+
+`@sct`
+```{python}
+Ex().check_function('plot_pct_returns').check_args(0).has_equal_value()
+```
+
+---
+
+## Insert exercise title here
+
+```yaml
+type: VideoExercise
+key: 6a9f13e8f3
+xp: 50
+```
+
+`@projector_key`
+b3c7e8655ac2c144e980bfe04ca1a1f5
