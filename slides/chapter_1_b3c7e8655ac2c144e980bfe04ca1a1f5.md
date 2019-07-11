@@ -129,12 +129,22 @@ key: 4cde697c63
 
 ---
 
+
+
+```yaml
+type: undefined
+key: bc51e4821c
+```
+
+
+
 ---
 
 ## Copy of previous slide
 
 ```yaml
 type: TwoColumns
+key: 3db05f03cb
 ```
 
 `@part1`
