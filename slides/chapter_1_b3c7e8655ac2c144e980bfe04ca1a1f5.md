@@ -38,6 +38,24 @@ key: f763f19d25
 
 ---
 
+## Insert title here...
+
+```yaml
+type: FullSlide
+```
+
+`@part1`
+| review | class | {{2}}
+| :--- | --- |
+| This movie is for dog lovers. A very poignant... | positive | {{3}}
+| The movie is forgettable. The plot lacked... | negative | {{4}}
+| A truly amazing movie about dogs. A gripping... | positive | {{5}}
+
+`@script`
+
+
+---
+
 ## Let's practice!
 
 ```yaml
