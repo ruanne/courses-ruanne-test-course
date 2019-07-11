@@ -111,17 +111,6 @@ key: 0f758f14a6
 
 ---
 
-
-
-```yaml
-type: undefined
-key: a6d62fba48
-```
-
-
-
----
-
 ## Insert title here...
 
 ```yaml
