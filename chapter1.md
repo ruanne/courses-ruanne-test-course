@@ -175,6 +175,6 @@ b3c7e8655ac2c144e980bfe04ca1a1f5
 
 ```yaml
 type: VideoExercise
-key: 6a9f13e8f3
+key: bda7ec31e0
 xp: 50
 ```
