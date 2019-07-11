@@ -129,6 +129,25 @@ key: 4cde697c63
 
 ---
 
+---
+
+## Copy of previous slide
+
+```yaml
+type: TwoColumns
+```
+
+`@part1`
+
+
+`@part2`
+
+
+`@script`
+
+
+---
+
 ## Let's practice!
 
 ```yaml
