@@ -129,17 +129,6 @@ key: 4cde697c63
 
 ---
 
-
-
-```yaml
-type: undefined
-key: bc51e4821c
-```
-
-
-
----
-
 ## Copy of previous slide
 
 ```yaml
