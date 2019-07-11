@@ -168,3 +168,13 @@ xp: 50
 
 `@projector_key`
 b3c7e8655ac2c144e980bfe04ca1a1f5
+
+---
+
+## Insert exercise title here
+
+```yaml
+type: VideoExercise
+key: 6a9f13e8f3
+xp: 50
+```
