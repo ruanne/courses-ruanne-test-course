@@ -42,6 +42,7 @@ key: f763f19d25
 
 ```yaml
 type: FullSlide
+key: 4f033f5a35
 ```
 
 `@part1`
