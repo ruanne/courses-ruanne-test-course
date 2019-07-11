@@ -75,6 +75,25 @@ key: 5683a699f1
 
 ---
 
+---
+
+## Insert title here...
+
+```yaml
+type: TwoRows
+```
+
+`@part1`
+
+
+`@part2`
+
+
+`@script`
+
+
+---
+
 ## Let's practice!
 
 ```yaml
