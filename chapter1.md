@@ -178,3 +178,82 @@ type: VideoExercise
 key: bda7ec31e0
 xp: 50
 ```
+
+
+---
+
+## Insert exercise title here
+
+```yaml
+type: DragAndDropExercise
+key: caeab3f406
+xp: 100
+```
+
+
+
+`@instructions`
+
+
+`@hint`
+
+
+`@solution`
+```{python}
+
+```
+
+`@sct`
+```{python}
+checks:
+```
+
+---
+
+## Insert exercise title here
+
+```yaml
+type: NormalExercise
+key: efa2398ab4
+xp: 100
+```
+
+<!-- Guidelines for contexts: https://instructor-support.datacamp.com/en/articles/2375526-course-coding-exercises. -->
+
+`@instructions`
+<!-- Guidelines for instructions https://instructor-support.datacamp.com/en/articles/2375526-course-coding-exercises. -->
+- Instruction 1
+- Instruction 2
+
+`@hint`
+<!-- Examples of good hints: https://instructor-support.datacamp.com/en/articles/2379164-hints-best-practices. -->
+- This is an example hint.
+- This is an example hint.
+
+`@pre_exercise_code`
+```{python}
+
+```
+
+`@sample_code`
+```{python}
+my_list = ['blue', 'green', 'yellow']
+```
+
+`@solution`
+```{python}
+my_list = ['blue', 'green', 'yellow']
+```
+
+`@sct`
+```{python}
+# Examples of good success messages: https://instructor-support.datacamp.com/en/articles/2299773-exercise-success-messages.
+
+def my_func(x, y):
+  if x == y:
+    return True
+  else:
+    return False
+
+Ex().check_object("my_list").has_equal_value(func = my_func)
+```
